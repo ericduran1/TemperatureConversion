@@ -3,6 +3,6 @@ var convertFahToCel = function (fahrenheit) {
     return celcius;
 }
 
-var celsiustemperature = convertFahToCel(32);
+var celsiusTemperature = convertFahToCel(32);
 
-document.write(celsiustemperature);
+document.write(celsiusTemperature);
